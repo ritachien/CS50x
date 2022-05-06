@@ -8,5 +8,5 @@
 ## Link for source codes  
 | week  | Course  | Problem Set                                                                                                                                                                                                                                  | Lab |
 | :---: | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-|   0   | Scratch |                                                                                                                                                                                                                                              |     |
+|   0   | Scratch | [Make a cake!](https://scratch.mit.edu/projects/682230569/)                                                                                                                                                                                  |     |
 |   1   | C       | [Hello.c](./week1_C/ProblemSet1/hello.c)<br>[Mario-less.c](./week1_C/ProblemSet1/mario-less.c)<br>[Mario-more.c](./week1_C/ProblemSet1/mario-more.c)<br>[cash.c](./week1_C/ProblemSet1/cash.c)<br>[credit.c](./week1_C/ProblemSet1/credit.c) |     |
